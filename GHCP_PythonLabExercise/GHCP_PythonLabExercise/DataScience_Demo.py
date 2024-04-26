@@ -1,0 +1,2 @@
+# Use GHCP Chat window to generate code for the below use case and utilize #file command to provide path of your CSV file
+#Analyze the data from file #file:train_accidents.csv which has Date, Train number and Cause column. group by cause wise and visualize the output in pie chart to show trend for year wise accident ratio

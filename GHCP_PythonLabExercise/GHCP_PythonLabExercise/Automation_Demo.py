@@ -1,0 +1,2 @@
+# Generate a code to regularly backup critical data (such as bookings, passenger details, and payment records) to ensure data safety and create a Python script to schedule this process every 2 hours and synchronize data between different locations.
+# Replace folder path with your respective folders.
