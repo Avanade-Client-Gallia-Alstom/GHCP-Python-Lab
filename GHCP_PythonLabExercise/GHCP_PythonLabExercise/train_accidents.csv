@@ -1,0 +1,367 @@
+Date,Train Number,Cause
+2023-04-27,2998,Signal malfunctioning
+2023-04-28,8827,Miscommunication
+2023-04-29,5529,Maintenance issue
+2023-04-30,6957,Maintenance issue
+2023-05-01,3882,Signal malfunctioning
+2023-05-02,1776,Maintenance issue
+2023-05-03,8793,Miscommunication
+2023-05-04,9192,Maintenance issue
+2023-05-05,3667,Miscommunication
+2023-05-06,9335,Maintenance issue
+2023-05-07,2102,Miscommunication
+2023-05-08,4415,Miscommunication
+2023-05-09,4077,Maintenance issue
+2023-05-10,6161,Miscommunication
+2023-05-11,7604,Maintenance issue
+2023-05-12,6831,Miscommunication
+2023-05-13,6210,Miscommunication
+2023-05-14,4454,Maintenance issue
+2023-05-15,7849,Miscommunication
+2023-05-16,7813,Maintenance issue
+2023-05-17,7963,Maintenance issue
+2023-05-18,3680,Maintenance issue
+2023-05-19,3984,Miscommunication
+2023-05-20,9105,Miscommunication
+2023-05-21,3342,Maintenance issue
+2023-05-22,1545,Signal malfunctioning
+2023-05-23,4606,Signal malfunctioning
+2023-05-24,5450,Signal malfunctioning
+2023-05-25,8190,Signal malfunctioning
+2023-05-26,8712,Miscommunication
+2023-05-27,6581,Miscommunication
+2023-05-28,7557,Signal malfunctioning
+2023-05-29,4698,Miscommunication
+2023-05-30,6661,Miscommunication
+2023-05-31,6721,Maintenance issue
+2023-06-01,9518,Miscommunication
+2023-06-02,8010,Maintenance issue
+2023-06-03,4319,Maintenance issue
+2023-06-04,1541,Maintenance issue
+2023-06-05,6291,Miscommunication
+2023-06-06,7040,Signal malfunctioning
+2023-06-07,6868,Miscommunication
+2023-06-08,2789,Maintenance issue
+2023-06-09,1353,Miscommunication
+2023-06-10,2488,Signal malfunctioning
+2023-06-11,4833,Maintenance issue
+2023-06-12,1064,Miscommunication
+2023-06-13,8603,Miscommunication
+2023-06-14,6737,Miscommunication
+2023-06-15,1882,Miscommunication
+2023-06-16,7728,Signal malfunctioning
+2023-06-17,7187,Signal malfunctioning
+2023-06-18,7803,Maintenance issue
+2023-06-19,4112,Miscommunication
+2023-06-20,1276,Signal malfunctioning
+2023-06-21,6752,Signal malfunctioning
+2023-06-22,5826,Maintenance issue
+2023-06-23,3162,Maintenance issue
+2023-06-24,1830,Signal malfunctioning
+2023-06-25,5344,Maintenance issue
+2023-06-26,4970,Maintenance issue
+2023-06-27,4023,Miscommunication
+2023-06-28,4427,Signal malfunctioning
+2023-06-29,9064,Maintenance issue
+2023-06-30,2307,Maintenance issue
+2023-07-01,3294,Miscommunication
+2023-07-02,1404,Signal malfunctioning
+2023-07-03,1722,Maintenance issue
+2023-07-04,1836,Signal malfunctioning
+2023-07-05,4786,Signal malfunctioning
+2023-07-06,8184,Signal malfunctioning
+2023-07-07,1433,Miscommunication
+2023-07-08,9927,Maintenance issue
+2023-07-09,5970,Maintenance issue
+2023-07-10,5256,Miscommunication
+2023-07-11,1425,Miscommunication
+2023-07-12,9513,Maintenance issue
+2023-07-13,5186,Signal malfunctioning
+2023-07-14,8097,Maintenance issue
+2023-07-15,8412,Miscommunication
+2023-07-16,5780,Signal malfunctioning
+2023-07-17,1449,Maintenance issue
+2023-07-18,9797,Miscommunication
+2023-07-19,4972,Miscommunication
+2023-07-20,6540,Maintenance issue
+2023-07-21,2687,Maintenance issue
+2023-07-22,8736,Miscommunication
+2023-07-23,9850,Signal malfunctioning
+2023-07-24,7085,Signal malfunctioning
+2023-07-25,2869,Maintenance issue
+2023-07-26,6579,Signal malfunctioning
+2023-07-27,5446,Miscommunication
+2023-07-28,8907,Signal malfunctioning
+2023-07-29,3319,Signal malfunctioning
+2023-07-30,3060,Miscommunication
+2023-07-31,4267,Miscommunication
+2023-08-01,5168,Miscommunication
+2023-08-02,4543,Maintenance issue
+2023-08-03,1626,Maintenance issue
+2023-08-04,1956,Signal malfunctioning
+2023-08-05,8604,Maintenance issue
+2023-08-06,6247,Signal malfunctioning
+2023-08-07,2722,Signal malfunctioning
+2023-08-08,4829,Maintenance issue
+2023-08-09,1422,Miscommunication
+2023-08-10,8918,Signal malfunctioning
+2023-08-11,1146,Maintenance issue
+2023-08-12,6894,Signal malfunctioning
+2023-08-13,3125,Signal malfunctioning
+2023-08-14,3236,Miscommunication
+2023-08-15,6777,Maintenance issue
+2023-08-16,4265,Miscommunication
+2023-08-17,5763,Maintenance issue
+2023-08-18,6808,Miscommunication
+2023-08-19,3305,Signal malfunctioning
+2023-08-20,1764,Maintenance issue
+2023-08-21,3722,Miscommunication
+2023-08-22,5376,Maintenance issue
+2023-08-23,2878,Miscommunication
+2023-08-24,3440,Maintenance issue
+2023-08-25,8557,Signal malfunctioning
+2023-08-26,9014,Maintenance issue
+2023-08-27,2744,Miscommunication
+2023-08-28,3965,Maintenance issue
+2023-08-29,2061,Miscommunication
+2023-08-30,4636,Maintenance issue
+2023-08-31,6224,Signal malfunctioning
+2023-09-01,2912,Maintenance issue
+2023-09-02,5533,Signal malfunctioning
+2023-09-03,8730,Signal malfunctioning
+2023-09-04,2601,Miscommunication
+2023-09-05,6626,Maintenance issue
+2023-09-06,3741,Miscommunication
+2023-09-07,6298,Miscommunication
+2023-09-08,5658,Miscommunication
+2023-09-09,3403,Signal malfunctioning
+2023-09-10,2991,Maintenance issue
+2023-09-11,6033,Signal malfunctioning
+2023-09-12,6387,Maintenance issue
+2023-09-13,4502,Signal malfunctioning
+2023-09-14,5141,Maintenance issue
+2023-09-15,2550,Miscommunication
+2023-09-16,7472,Maintenance issue
+2023-09-17,8760,Maintenance issue
+2023-09-18,9148,Miscommunication
+2023-09-19,8188,Miscommunication
+2023-09-20,5525,Miscommunication
+2023-09-21,1672,Signal malfunctioning
+2023-09-22,9291,Signal malfunctioning
+2023-09-23,9544,Maintenance issue
+2023-09-24,6710,Maintenance issue
+2023-09-25,7503,Miscommunication
+2023-09-26,2564,Maintenance issue
+2023-09-27,7482,Miscommunication
+2023-09-28,5152,Maintenance issue
+2023-09-29,8385,Miscommunication
+2023-09-30,3443,Miscommunication
+2023-10-01,8514,Maintenance issue
+2023-10-02,7451,Miscommunication
+2023-10-03,5176,Signal malfunctioning
+2023-10-04,9071,Maintenance issue
+2023-10-05,5774,Maintenance issue
+2023-10-06,8311,Signal malfunctioning
+2023-10-07,1449,Maintenance issue
+2023-10-08,7274,Signal malfunctioning
+2023-10-09,3719,Maintenance issue
+2023-10-10,7784,Maintenance issue
+2023-10-11,9421,Signal malfunctioning
+2023-10-12,7708,Miscommunication
+2023-10-13,5493,Maintenance issue
+2023-10-14,8781,Miscommunication
+2023-10-15,2780,Miscommunication
+2023-10-16,2814,Maintenance issue
+2023-10-17,5716,Maintenance issue
+2023-10-18,5468,Maintenance issue
+2023-10-19,1718,Miscommunication
+2023-10-20,4734,Maintenance issue
+2023-10-21,6029,Miscommunication
+2023-10-22,9632,Miscommunication
+2023-10-23,3356,Miscommunication
+2023-10-24,5616,Maintenance issue
+2023-10-25,9270,Miscommunication
+2023-10-26,1966,Signal malfunctioning
+2023-10-27,3336,Miscommunication
+2023-10-28,4227,Miscommunication
+2023-10-29,6788,Maintenance issue
+2023-10-30,5782,Miscommunication
+2023-10-31,2277,Signal malfunctioning
+2023-11-01,5726,Signal malfunctioning
+2023-11-02,5106,Signal malfunctioning
+2023-11-03,6153,Maintenance issue
+2023-11-04,8967,Signal malfunctioning
+2023-11-05,8147,Miscommunication
+2023-11-06,8105,Signal malfunctioning
+2023-11-07,9218,Signal malfunctioning
+2023-11-08,9933,Signal malfunctioning
+2023-11-09,8783,Miscommunication
+2023-11-10,9086,Signal malfunctioning
+2023-11-11,3223,Miscommunication
+2023-11-12,2262,Signal malfunctioning
+2023-11-13,4750,Signal malfunctioning
+2023-11-14,1170,Miscommunication
+2023-11-15,8760,Maintenance issue
+2023-11-16,9972,Maintenance issue
+2023-11-17,1103,Signal malfunctioning
+2023-11-18,3133,Miscommunication
+2023-11-19,8210,Signal malfunctioning
+2023-11-20,2042,Maintenance issue
+2023-11-21,8905,Maintenance issue
+2023-11-22,6826,Maintenance issue
+2023-11-23,3644,Maintenance issue
+2023-11-24,4907,Maintenance issue
+2023-11-25,7391,Signal malfunctioning
+2023-11-26,1055,Signal malfunctioning
+2023-11-27,4593,Signal malfunctioning
+2023-11-28,1510,Maintenance issue
+2023-11-29,5540,Signal malfunctioning
+2023-11-30,3699,Miscommunication
+2023-12-01,4625,Signal malfunctioning
+2023-12-02,5809,Signal malfunctioning
+2023-12-03,4923,Maintenance issue
+2023-12-04,5680,Maintenance issue
+2023-12-05,5930,Maintenance issue
+2023-12-06,3688,Miscommunication
+2023-12-07,7440,Miscommunication
+2023-12-08,5176,Signal malfunctioning
+2023-12-09,1225,Maintenance issue
+2023-12-10,6717,Signal malfunctioning
+2023-12-11,5137,Maintenance issue
+2023-12-12,1555,Maintenance issue
+2023-12-13,3194,Signal malfunctioning
+2023-12-14,1436,Miscommunication
+2023-12-15,2721,Signal malfunctioning
+2023-12-16,5550,Miscommunication
+2023-12-17,4276,Miscommunication
+2023-12-18,3831,Signal malfunctioning
+2023-12-19,8910,Miscommunication
+2023-12-20,6652,Signal malfunctioning
+2023-12-21,7858,Miscommunication
+2023-12-22,2118,Signal malfunctioning
+2023-12-23,8456,Miscommunication
+2023-12-24,7638,Maintenance issue
+2023-12-25,2830,Signal malfunctioning
+2023-12-26,6588,Miscommunication
+2023-12-27,9668,Miscommunication
+2023-12-28,7008,Signal malfunctioning
+2023-12-29,2658,Miscommunication
+2023-12-30,8217,Miscommunication
+2023-12-31,5027,Miscommunication
+2024-01-01,9753,Maintenance issue
+2024-01-02,2749,Maintenance issue
+2024-01-03,4736,Signal malfunctioning
+2024-01-04,1476,Miscommunication
+2024-01-05,8782,Miscommunication
+2024-01-06,1848,Signal malfunctioning
+2024-01-07,8801,Maintenance issue
+2024-01-08,8340,Maintenance issue
+2024-01-09,1652,Miscommunication
+2024-01-10,3412,Miscommunication
+2024-01-11,7208,Miscommunication
+2024-01-12,1168,Maintenance issue
+2024-01-13,7968,Signal malfunctioning
+2024-01-14,5308,Maintenance issue
+2024-01-15,9303,Miscommunication
+2024-01-16,3251,Maintenance issue
+2024-01-17,2390,Signal malfunctioning
+2024-01-18,7502,Miscommunication
+2024-01-19,1707,Miscommunication
+2024-01-20,9138,Miscommunication
+2024-01-21,5907,Maintenance issue
+2024-01-22,9086,Signal malfunctioning
+2024-01-23,4680,Miscommunication
+2024-01-24,9562,Signal malfunctioning
+2024-01-25,5042,Maintenance issue
+2024-01-26,9441,Maintenance issue
+2024-01-27,1345,Miscommunication
+2024-01-28,9585,Maintenance issue
+2024-01-29,3895,Miscommunication
+2024-01-30,2445,Maintenance issue
+2024-01-31,8554,Miscommunication
+2024-02-01,6338,Miscommunication
+2024-02-02,3371,Miscommunication
+2024-02-03,8499,Signal malfunctioning
+2024-02-04,1814,Miscommunication
+2024-02-05,5205,Miscommunication
+2024-02-06,2209,Signal malfunctioning
+2024-02-07,9112,Miscommunication
+2024-02-08,2450,Signal malfunctioning
+2024-02-09,6879,Miscommunication
+2024-02-10,7321,Miscommunication
+2024-02-11,5223,Signal malfunctioning
+2024-02-12,7847,Maintenance issue
+2024-02-13,5534,Maintenance issue
+2024-02-14,6710,Signal malfunctioning
+2024-02-15,6542,Signal malfunctioning
+2024-02-16,7153,Miscommunication
+2024-02-17,4143,Maintenance issue
+2024-02-18,9224,Miscommunication
+2024-02-19,7922,Signal malfunctioning
+2024-02-20,5918,Maintenance issue
+2024-02-21,1940,Signal malfunctioning
+2024-02-22,4222,Miscommunication
+2024-02-23,8783,Maintenance issue
+2024-02-24,6110,Miscommunication
+2024-02-25,3087,Maintenance issue
+2024-02-26,6074,Miscommunication
+2024-02-27,2092,Maintenance issue
+2024-02-28,3824,Maintenance issue
+2024-02-29,5746,Maintenance issue
+2024-03-01,1833,Maintenance issue
+2024-03-02,2436,Signal malfunctioning
+2024-03-03,5356,Miscommunication
+2024-03-04,2118,Signal malfunctioning
+2024-03-05,1759,Maintenance issue
+2024-03-06,5279,Miscommunication
+2024-03-07,9204,Maintenance issue
+2024-03-08,2664,Maintenance issue
+2024-03-09,8194,Miscommunication
+2024-03-10,2515,Signal malfunctioning
+2024-03-11,2307,Miscommunication
+2024-03-12,4191,Signal malfunctioning
+2024-03-13,4670,Miscommunication
+2024-03-14,8593,Signal malfunctioning
+2024-03-15,8009,Signal malfunctioning
+2024-03-16,8173,Signal malfunctioning
+2024-03-17,5922,Signal malfunctioning
+2024-03-18,1265,Maintenance issue
+2024-03-19,8048,Signal malfunctioning
+2024-03-20,4472,Maintenance issue
+2024-03-21,4029,Signal malfunctioning
+2024-03-22,8628,Miscommunication
+2024-03-23,3029,Miscommunication
+2024-03-24,9184,Signal malfunctioning
+2024-03-25,8691,Signal malfunctioning
+2024-03-26,3871,Signal malfunctioning
+2024-03-27,5206,Signal malfunctioning
+2024-03-28,8867,Maintenance issue
+2024-03-29,6905,Signal malfunctioning
+2024-03-30,5232,Maintenance issue
+2024-03-31,5995,Miscommunication
+2024-04-01,7774,Miscommunication
+2024-04-02,7368,Maintenance issue
+2024-04-03,6117,Maintenance issue
+2024-04-04,9361,Maintenance issue
+2024-04-05,4160,Miscommunication
+2024-04-06,5885,Signal malfunctioning
+2024-04-07,8076,Miscommunication
+2024-04-08,4464,Signal malfunctioning
+2024-04-09,8046,Signal malfunctioning
+2024-04-10,7230,Miscommunication
+2024-04-11,7143,Miscommunication
+2024-04-12,1535,Maintenance issue
+2024-04-13,7591,Signal malfunctioning
+2024-04-14,7853,Signal malfunctioning
+2024-04-15,2979,Maintenance issue
+2024-04-16,4789,Signal malfunctioning
+2024-04-17,8904,Miscommunication
+2024-04-18,8017,Miscommunication
+2024-04-19,7591,Miscommunication
+2024-04-20,9784,Signal malfunctioning
+2024-04-21,3504,Signal malfunctioning
+2024-04-22,4116,Miscommunication
+2024-04-23,8698,Miscommunication
+2024-04-24,6498,Miscommunication
+2024-04-25,2405,Signal malfunctioning
+2024-04-26,9028,Miscommunication
